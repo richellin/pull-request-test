@@ -1,4 +1,4 @@
 # pull-request-test
 pull-request-test
 
-same 2
+canary
